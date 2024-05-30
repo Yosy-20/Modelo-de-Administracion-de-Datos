@@ -1,1 +1,70 @@
-
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yosys\\Documents\\Archivos\\Universidad\\MAD\\MAD\\Mad-PIA\\WindowsFormsApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{801E2D8D-179B-4E6F-AA64-6999C908034D}|WindowsFormsApp3\\WindowsFormsApp3.csproj|c:\\users\\yosys\\documents\\archivos\\universidad\\mad\\mad\\mad-pia\\windowsformsapp3\\windowsformsapp3\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801E2D8D-179B-4E6F-AA64-6999C908034D}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801E2D8D-179B-4E6F-AA64-6999C908034D}|WindowsFormsApp3\\WindowsFormsApp3.csproj|C:\\Users\\yosys\\Documents\\Archivos\\Universidad\\MAD\\MAD\\Mad-PIA\\WindowsFormsApp3\\windowsformsapp3\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801E2D8D-179B-4E6F-AA64-6999C908034D}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801E2D8D-179B-4E6F-AA64-6999C908034D}|WindowsFormsApp3\\WindowsFormsApp3.csproj|C:\\Users\\yosys\\Documents\\Archivos\\Universidad\\MAD\\MAD\\Mad-PIA\\WindowsFormsApp3\\windowsformsapp3\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{801E2D8D-179B-4E6F-AA64-6999C908034D}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form6.cs",
+              "DocumentMoniker": "C:\\Users\\yosys\\Documents\\Archivos\\Universidad\\MAD\\MAD\\Mad-PIA\\WindowsFormsApp3\\WindowsFormsApp3\\Form6.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\Form6.cs",
+              "ToolTip": "C:\\Users\\yosys\\Documents\\Archivos\\Universidad\\MAD\\MAD\\Mad-PIA\\WindowsFormsApp3\\WindowsFormsApp3\\Form6.cs",
+              "RelativeToolTip": "WindowsFormsApp3\\Form6.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAADwv0IAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:55:50.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form8.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\yosys\\Documents\\Archivos\\Universidad\\MAD\\MAD\\Mad-PIA\\WindowsFormsApp3\\WindowsFormsApp3\\Form8.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\Form8.cs",
+              "ToolTip": "C:\\Users\\yosys\\Documents\\Archivos\\Universidad\\MAD\\MAD\\Mad-PIA\\WindowsFormsApp3\\WindowsFormsApp3\\Form8.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsFormsApp3\\Form8.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:48:16.855Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form8.cs",
+              "DocumentMoniker": "C:\\Users\\yosys\\Documents\\Archivos\\Universidad\\MAD\\MAD\\Mad-PIA\\WindowsFormsApp3\\WindowsFormsApp3\\Form8.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\Form8.cs",
+              "ToolTip": "C:\\Users\\yosys\\Documents\\Archivos\\Universidad\\MAD\\MAD\\Mad-PIA\\WindowsFormsApp3\\WindowsFormsApp3\\Form8.cs",
+              "RelativeToolTip": "WindowsFormsApp3\\Form8.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAUwGIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:48:23.29Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

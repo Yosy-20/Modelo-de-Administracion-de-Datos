@@ -22,3 +22,7 @@ Desarrollar un proyecto de una aplicaci√≥n de escritorio siguiendo la metodolog√
 
 
 Pantallas de mi aplicacion 
+
+
+![Pantallas de mi aplicacion](imagenes/InicioSesion.jpg)
+![Pantallas de mi aplicacion](imagenes/Registro.jpg)

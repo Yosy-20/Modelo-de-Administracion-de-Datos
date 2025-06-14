@@ -16,7 +16,7 @@ Aplicación de escritorio para realizar consultas de la Biblia, el cual fue desa
 ### Objetivo
 
 Desarrollo de una base de datos funcional en base a un mapeo de datos para el diseño de un MER y un MR.
-Desarrollar un proyecto de una aplicación de escritorio siguiendo la metodología de programación orientada a objetos, estableciendo clases para la conexión a una base de datos y métodos que utilicen llamadas a procedimientos almacenados en la base de datos para gestionar toda la información del proyecto. 
+Desarrollo de una aplicación de escritorio siguiendo la metodología de programación orientada a objetos, estableciendo clases para la conexión a una base de datos y métodos que utilicen llamadas a procedimientos almacenados en la base de datos para gestionar toda la información del proyecto. 
 
 ### Capturas de Pantalla
 
